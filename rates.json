@@ -1,0 +1,31 @@
+{
+  "updated": "2026-06-12",
+  "note": "Tasas E.A. verificadas en prensa y sitios oficiales (abr–jun 2026). Cada entidad puede cambiarlas sin aviso; son referenciales.",
+  "rates": [
+    {"entidad":"Pibank","producto":"Cuenta remunerada","tipo":"cuenta","tasa_ea":11.0,"bajo_monto":false,"color":"#00A0DF","condiciones":"Sin cuota de manejo; interés sobre saldo diario","verificado":"2026-05-19","fuente":"Pibank"},
+    {"entidad":"Global66","producto":"Cuenta Global (COP)","tipo":"cuenta","tasa_ea":11.0,"bajo_monto":false,"color":"#00C49A","condiciones":"Requiere ≥1 transacción/mes; tope 2.000 USD/mes","verificado":"2026-06-12","fuente":"Global66"},
+    {"entidad":"Ualá","producto":"Cuenta remunerada (nivel 3)","tipo":"cuenta","tasa_ea":10.5,"bajo_monto":true,"color":"#2D9CDB","condiciones":"Nivel 3: compras ≥ $400.000/mes con débito","verificado":"2026-06-12","fuente":"ai-101.co"},
+    {"entidad":"Lulo Bank","producto":"Bolsillo Pro (con nómina)","tipo":"cuenta","tasa_ea":10.1,"bajo_monto":false,"color":"#EC1C7D","condiciones":"Requiere nómina; bloqueo 90 días","verificado":"2026-05-21","fuente":"Dónde Ahorro"},
+    {"entidad":"Nu","producto":"Cajitas de ahorro","tipo":"cuenta","tasa_ea":9.25,"bajo_monto":false,"color":"#820AD1","condiciones":"Rendimiento diario, sin monto mínimo","verificado":"2026-04-09","fuente":"La República"},
+    {"entidad":"RappiPay","producto":"RappiCuenta (en Bolsillos)","tipo":"cuenta","tasa_ea":9.0,"bajo_monto":true,"color":"#FF441F","condiciones":"9% E.A. en Bolsillos; fuera 0,1%","verificado":"2026-04-24","fuente":"RappiPay"},
+    {"entidad":"Nequi","producto":"Bolsillos / Metas","tipo":"cuenta","tasa_ea":0.1,"bajo_monto":true,"color":"#4A00E0","condiciones":"Depósito de bajo monto","verificado":"2026-06-12","fuente":"Nequi"},
+    {"entidad":"Daviplata","producto":"Saldo","tipo":"cuenta","tasa_ea":0.0,"bajo_monto":true,"color":"#ED1C27","condiciones":"Monedero básico, sin rendimiento","verificado":"2026-06-12","fuente":"Davivienda"},
+
+    {"entidad":"Banco de Occidente","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":13.45,"bajo_monto":false,"color":"#E4002B","condiciones":"Varía por monto/canal","verificado":"2026-04-02","fuente":"Rankia"},
+    {"entidad":"BBVA","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":13.31,"bajo_monto":false,"color":"#004481","condiciones":"Canal digital","verificado":"2026-04-02","fuente":"Rankia"},
+    {"entidad":"Koa","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":13.3,"bajo_monto":false,"color":"#00B86B","condiciones":"Desde $50.000; calificación AA","verificado":"2026-06-01","fuente":"Rankia"},
+    {"entidad":"Pibank","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":13.0,"bajo_monto":false,"color":"#00A0DF","condiciones":"Desde $100.000; requiere Cuenta Pibank","verificado":"2026-05-19","fuente":"Pibank"},
+    {"entidad":"Mibanco","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.97,"bajo_monto":false,"color":"#E2001A","condiciones":"Microfinanciera","verificado":"2026-03-16","fuente":"La República"},
+    {"entidad":"Bancamía","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.71,"bajo_monto":false,"color":"#F47920","condiciones":"Microfinanciera","verificado":"2026-03-16","fuente":"La República"},
+    {"entidad":"Banco W","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":12.0,"bajo_monto":false,"color":"#00843D","condiciones":"Desde $200.000; Fogafín AAA","verificado":"2026-06-12","fuente":"Banco W"},
+    {"entidad":"AV Villas","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":12.0,"bajo_monto":false,"color":"#ED1C24","condiciones":"Desde $500.000; apertura por PSE","verificado":"2026-06-09","fuente":"El Colombiano"},
+    {"entidad":"Bancolombia","producto":"CDT virtual","tipo":"cdt","plazo":"360 días","tasa_ea":11.51,"bajo_monto":false,"color":"#FDDA24","condiciones":"Desde $500.000","verificado":"2026-04-02","fuente":"Rankia"},
+    {"entidad":"Nu","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":11.5,"bajo_monto":false,"color":"#820AD1","condiciones":"Desde $50.000; 100% app","verificado":"2026-05-05","fuente":"Nu"},
+    {"entidad":"Lulo Bank","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":11.5,"bajo_monto":false,"color":"#EC1C7D","condiciones":"Desde $100.000","verificado":"2026-05-21","fuente":"Dónde Ahorro"},
+    {"entidad":"Bancoomeva","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":11.5,"bajo_monto":false,"color":"#00803F","condiciones":"Desde $300.000","verificado":"2026-06-12","fuente":"Bancoomeva"},
+    {"entidad":"Scotiabank Colpatria","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":11.0,"bajo_monto":false,"color":"#EC111A","condiciones":"Mejora con cuenta nómina","verificado":"2026-06-12","fuente":"Scotiabank"},
+    {"entidad":"RappiPay","producto":"Bóveda","tipo":"cdt","plazo":"180 días","tasa_ea":10.1,"bajo_monto":false,"color":"#FF441F","condiciones":"Retiro anticipado 0,1%","verificado":"2026-04-24","fuente":"RappiPay"},
+    {"entidad":"Nu","producto":"CDT","tipo":"cdt","plazo":"180 días","tasa_ea":9.7,"bajo_monto":false,"color":"#820AD1","condiciones":"Desde $50.000","verificado":"2026-05-05","fuente":"Nu"},
+    {"entidad":"Davivienda","producto":"CDT digital","tipo":"cdt","plazo":"180 días","tasa_ea":9.0,"bajo_monto":false,"color":"#ED1C27","condiciones":"Desde $500.000","verificado":"2026-05-15","fuente":"El País"}
+  ]
+}
