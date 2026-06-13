@@ -3,6 +3,10 @@
   "note": "Tasas E.A. verificadas en prensa y sitios oficiales (abr–jun 2026; cuentas act. LaFM jun-2026). Cada entidad puede cambiarlas sin aviso; son referenciales.",
   "rates": [
     {"entidad":"AV Villas","producto":"Bolsillos con rentabilidad","tipo":"cuenta","tasa_ea":12.0,"bajo_monto":false,"color":"#ED1C24","condiciones":"Desde $500.000, plazo mín. 31 días; hasta 12% E.A. según monto y plazo","verificado":"2026-06-13","fuente":"AV Villas"},
+    {"entidad":"Dale!","producto":"Cuenta remunerada","tipo":"cuenta","tasa_ea":10.5,"bajo_monto":true,"color":"#00C2A8","condiciones":"Depósito de bajo monto; 100% digital","verificado":"2026-06-13","fuente":"LaFM"},
+    {"entidad":"Banco Finandina","producto":"Cuenta de ahorro digital","tipo":"cuenta","tasa_ea":10.0,"bajo_monto":false,"color":"#1B2A66","condiciones":"Cuenta de ahorro remunerada","verificado":"2026-06-13","fuente":"LaFM"},
+    {"entidad":"BBVA","producto":"Cuenta remunerada","tipo":"cuenta","tasa_ea":9.5,"bajo_monto":false,"color":"#004481","condiciones":"Cuenta remunerada BBVA","verificado":"2026-06-13","fuente":"LaFM"},
+    {"entidad":"Banco de Occidente","producto":"Cuenta remunerada","tipo":"cuenta","tasa_ea":9.0,"bajo_monto":false,"color":"#E4002B","condiciones":"Cuenta remunerada","verificado":"2026-06-13","fuente":"LaFM"},
     {"entidad":"Pibank","producto":"Cuenta remunerada","tipo":"cuenta","tasa_ea":11.0,"bajo_monto":false,"color":"#00A0DF","condiciones":"Sin cuota de manejo; interés sobre saldo diario","verificado":"2026-05-19","fuente":"Pibank"},
     {"entidad":"Global66","producto":"Cuenta Global (COP)","tipo":"cuenta","tasa_ea":11.0,"bajo_monto":false,"color":"#00C49A","condiciones":"Requiere ≥1 transacción/mes; tope 2.000 USD/mes","verificado":"2026-06-12","fuente":"Global66"},
     {"entidad":"Ualá","producto":"Cuenta remunerada (nivel 3)","tipo":"cuenta","tasa_ea":10.5,"bajo_monto":true,"color":"#2D9CDB","condiciones":"Nivel 3: compras ≥ $400.000/mes con débito","verificado":"2026-06-12","fuente":"ai-101.co"},
@@ -18,6 +22,7 @@
     {"entidad":"Pibank","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":13.0,"bajo_monto":false,"color":"#00A0DF","condiciones":"Desde $100.000; requiere Cuenta Pibank","verificado":"2026-05-19","fuente":"Pibank"},
     {"entidad":"Mibanco","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.97,"bajo_monto":false,"color":"#E2001A","condiciones":"Microfinanciera","verificado":"2026-03-16","fuente":"La República"},
     {"entidad":"Bancamía","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.71,"bajo_monto":false,"color":"#F47920","condiciones":"Microfinanciera","verificado":"2026-03-16","fuente":"La República"},
+    {"entidad":"Banco de Bogotá","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.14,"bajo_monto":false,"color":"#002F87","condiciones":"Desde $100.000","verificado":"2026-06-13","fuente":"El Colombiano"},
     {"entidad":"Banco W","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":12.0,"bajo_monto":false,"color":"#00843D","condiciones":"Desde $200.000; Fogafín AAA","verificado":"2026-06-12","fuente":"Banco W"},
     {"entidad":"AV Villas","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":12.0,"bajo_monto":false,"color":"#ED1C24","condiciones":"Desde $500.000; apertura por PSE","verificado":"2026-06-09","fuente":"El Colombiano"},
     {"entidad":"Bancolombia","producto":"CDT virtual","tipo":"cdt","plazo":"360 días","tasa_ea":11.51,"bajo_monto":false,"color":"#FDDA24","condiciones":"Desde $500.000","verificado":"2026-04-02","fuente":"Rankia"},
