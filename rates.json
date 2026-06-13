@@ -21,7 +21,7 @@
     {"entidad":"Banco W","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":12.0,"bajo_monto":false,"color":"#00843D","condiciones":"Desde $200.000; Fogafín AAA","verificado":"2026-06-12","fuente":"Banco W"},
     {"entidad":"AV Villas","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":12.0,"bajo_monto":false,"color":"#ED1C24","condiciones":"Desde $500.000; apertura por PSE","verificado":"2026-06-09","fuente":"El Colombiano"},
     {"entidad":"Bancolombia","producto":"CDT virtual","tipo":"cdt","plazo":"360 días","tasa_ea":11.51,"bajo_monto":false,"color":"#FDDA24","condiciones":"Desde $500.000","verificado":"2026-04-02","fuente":"Rankia"},
-    {"entidad":"Nu","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":11.5,"bajo_monto":false,"color":"#820AD1","condiciones":"Desde $50.000; 100% app","verificado":"2026-05-05","fuente":"Nu"},
+    {"entidad":"Nu","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":11.5,"bajo_monto":false,"color":"#820AD1","condiciones":"Desde $50.000; 100% app","verificado":"2026-06-13","fuente":"El Colombiano"},
     {"entidad":"Lulo Bank","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":11.5,"bajo_monto":false,"color":"#EC1C7D","condiciones":"Desde $100.000","verificado":"2026-05-21","fuente":"Dónde Ahorro"},
     {"entidad":"Bancoomeva","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":11.5,"bajo_monto":false,"color":"#00803F","condiciones":"Desde $300.000","verificado":"2026-06-12","fuente":"Bancoomeva"},
     {"entidad":"Scotiabank Colpatria","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":11.0,"bajo_monto":false,"color":"#EC111A","condiciones":"Mejora con cuenta nómina","verificado":"2026-06-12","fuente":"Scotiabank"},
