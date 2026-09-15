@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-13",
-  "note": "Tasas E.A. verificadas en prensa y sitios oficiales (abr–jun 2026; cuentas act. LaFM jun-2026). Cada entidad puede cambiarlas sin aviso; son referenciales.",
+  "note": "Tasas E.A. publicadas por cada entidad, verificadas en sus sitios oficiales y en prensa; cada ítem trae su fecha de verificación. Cada entidad puede cambiarlas sin aviso; son referenciales.",
   "rates": [
     {"entidad":"AV Villas","producto":"Bolsillos con rentabilidad","tipo":"cuenta","tasa_ea":12.0,"bajo_monto":false,"color":"#ED1C24","condiciones":"Desde $500.000, plazo mín. 31 días; hasta 12% E.A. según monto y plazo","verificado":"2026-06-13","fuente":"AV Villas"},
     {"entidad":"Dale!","producto":"Cuenta remunerada","tipo":"cuenta","tasa_ea":10.5,"bajo_monto":true,"color":"#00C2A8","condiciones":"Depósito de bajo monto; 100% digital","verificado":"2026-06-13","fuente":"LaFM"},
@@ -18,7 +18,7 @@
 
     {"entidad":"Banco de Occidente","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":13.45,"bajo_monto":false,"color":"#E4002B","condiciones":"Varía por monto/canal","verificado":"2026-04-02","fuente":"Rankia"},
     {"entidad":"BBVA","producto":"CDT digital","tipo":"cdt","plazo":"360 días","tasa_ea":13.31,"bajo_monto":false,"color":"#004481","condiciones":"Canal digital","verificado":"2026-04-02","fuente":"Rankia"},
-    {"entidad":"Koa","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.9,"bajo_monto":false,"color":"#00B86B","condiciones":"Desde $50.000; calificación AA","verificado":"2026-09-13","fuente":"KOA"},
+    {"entidad":"Koa","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.9,"bajo_monto":false,"color":"#00B86B","condiciones":"Desde $250.000; calificación AA","verificado":"2026-09-13","fuente":"KOA"},
     {"entidad":"Pibank","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":13.5,"bajo_monto":false,"color":"#00A0DF","condiciones":"Desde $100.000; requiere Cuenta Pibank","verificado":"2026-09-13","fuente":"Pibank"},
     {"entidad":"Mibanco","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.97,"bajo_monto":false,"color":"#E2001A","condiciones":"Microfinanciera","verificado":"2026-03-16","fuente":"La República"},
     {"entidad":"Bancamía","producto":"CDT","tipo":"cdt","plazo":"360 días","tasa_ea":12.71,"bajo_monto":false,"color":"#F47920","condiciones":"Microfinanciera","verificado":"2026-03-16","fuente":"La República"},
