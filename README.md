@@ -2,7 +2,7 @@
 
 Fuente de datos en vivo de las tasas que muestra la app **Al Día** (cuentas remuneradas y CDT en Colombia).
 
-- **URL que consume la app:** https://jcandrade25.github.io/aldia-rates/rates.json
+- **URL que consume la app:** https://jcandrade25.github.io/aldia-rates/rates.json (desde el 2026-09-25 redirige a https://tasas.aldia.clarasapp.com/rates.json; las versiones nuevas de la app usan la del dominio)
 - **Archivo:** [`rates.json`](rates.json)
 
 ## Cómo actualizar las tasas
